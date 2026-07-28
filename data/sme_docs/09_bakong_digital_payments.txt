@@ -1,0 +1,5 @@
+Bakong and Digital Payments for Small Business
+
+Bakong is the backbone payment system developed by the National Bank of Cambodia using distributed ledger technology. It links banks and payment service providers into a single network, allowing customers to transfer money instantly between accounts at different institutions using a mobile app or QR codes. Bakong supports transactions in both Khmer riel and US dollars and has been connected to cross-border payment corridors with neighboring countries.
+
+For small businesses, digital payments through Bakong-connected apps and the standardized KHQR code system have dramatically lowered the cost of accepting cashless payments. A market vendor can print a single KHQR code and receive payments from customers of any participating bank or wallet, with funds arriving instantly and without card terminal fees. Digital payment records also help SMEs build a transaction history, which can later support loan applications. The spread of QR payments across markets, shops, and street stalls is one of the most visible aspects of Cambodia's digital economy transformation.
