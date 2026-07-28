@@ -1,0 +1,18 @@
+# Core
+streamlit
+scikit-learn
+numpy
+pandas
+
+# Real embeddings (required for final submission — Brief Section 2, Req 3)
+sentence-transformers
+
+# LLM generation (Brief Req 5): FREE providers (Groq / Gemini / Ollama) need no
+# extra package — they use `requests`, which Streamlit already installs.
+
+# Optional upgrades
+# anthropic        # only if you use the paid Anthropic provider
+# faiss-cpu        # real vector database at larger scale
+# chromadb         # alternative vector database with persistence
+# pypdf            # to ingest PDF documents alongside .txt
+# openai           # alternative embeddings backend
