@@ -1,0 +1,44 @@
+[
+  {
+    "query": "How are small and medium enterprises defined in Cambodia?",
+    "expected_sources": ["01_sme_definition_cambodia.txt"]
+  },
+  {
+    "query": "What is the KhmerSME platform and what services does it provide?",
+    "expected_sources": ["03_khmersme_platform.txt"]
+  },
+  {
+    "query": "How does the Credit Guarantee Corporation help businesses that lack collateral?",
+    "expected_sources": ["06_credit_guarantee.txt", "05_sme_bank.txt", "15_women_entrepreneurs.txt"]
+  },
+  {
+    "query": "What taxes does a registered small business have to pay in Cambodia?",
+    "expected_sources": ["07_tax_obligations.txt", "04_business_registration.txt"]
+  },
+  {
+    "query": "How do QR code payments through Bakong benefit market vendors?",
+    "expected_sources": ["09_bakong_digital_payments.txt"]
+  },
+  {
+    "query": "What certifications does a small food producer need to sell to supermarkets?",
+    "expected_sources": ["14_food_safety_standards.txt", "13_agro_processing.txt"]
+  },
+  {
+    "query": "What challenges do women entrepreneurs face when getting loans?",
+    "expected_sources": ["15_women_entrepreneurs.txt", "06_credit_guarantee.txt"]
+  },
+  {
+    "query": "Why is building AI chatbots for the Khmer language technically difficult?",
+    "expected_sources": ["20_ai_for_sme_services.txt"]
+  },
+  {
+    "query": "Who won the FIFA World Cup final?",
+    "expected_sources": [],
+    "expect_refusal": true
+  },
+  {
+    "query": "What is the recipe for Italian carbonara pasta?",
+    "expected_sources": [],
+    "expect_refusal": true
+  }
+]
